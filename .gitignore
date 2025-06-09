@@ -1,0 +1,45 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Project specific
+un-general-debates.csv
+
+# Compiled C/C++ objects
+*.o
+*.so
+
+# Backup files
+*~
+
+# Uploads and runtime artifacts
+uploads/
+cache/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
